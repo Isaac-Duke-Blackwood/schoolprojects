@@ -6,7 +6,7 @@ This program creates a daemon process that will watch a folder and respond to it
 ## Dependencies
 You'll probably have to edit the makefile to refelct where you installed these dependencies.
 - rudeconfig
-- inotify
+- tclap
 
 ## Usage
 
